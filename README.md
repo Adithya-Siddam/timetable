@@ -90,3 +90,5 @@ Execute the program
 ~~~
 # OUPUT
 ![OUTPUT](/IMAGES/timetable.png)
+# RESULT:
+Thus the program to create a simple webserver using HTML is completed sucessfully.
